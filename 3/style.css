@@ -24,10 +24,10 @@ div a
     text-transform: uppercase;
 }
 
-div #MyBox
+*
 {
-    width: 320px;
-    padding: 100px;
+    width: auto;
+    padding: 20px;
     border: 2px solid black;
     margin: auto;
     background-color: aquamarine;
