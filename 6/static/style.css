@@ -1,0 +1,21 @@
+* {
+    padding: 5vw;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    background-color: wheat;
+    color: darkcyan;
+}
+
+.NightStyle{
+    background-color: black;
+    color: white;
+}
+
+button{
+    background-color: aquamarine;
+    color: black;
+    border: 1px solid salmon;
+    border-radius: 10%;
+}
+
